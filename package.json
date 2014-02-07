@@ -16,9 +16,12 @@
     "ssha256"
   ],
   "author": "Hendrik Fellerhoff",
-  "license": "ISC",
-  "bugs": {
+ "bugs": {
     "url": "https://github.com/hennieliminator/node-ssha256/issues"
   },
-  "homepage": "https://github.com/hennieliminator/node-ssha256"
+  "homepage": "https://github.com/hennieliminator/node-ssha256",
+  "bin": {
+    "ssha256_create": "./bin/ssha256_create",
+    "ssha256_check": "./bin/ssha256_check"
+  }
 }
