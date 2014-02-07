@@ -1,0 +1,24 @@
+{
+  "name": "node-ssha256",
+  "version": "0.1.0",
+  "description": "Node module to create ssha256 hashes",
+  "main": "lib/ssha256.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hennieliminator/node-ssha256.git"
+  },
+  "keywords": [
+    "sha256",
+    "salt",
+    "ssha256"
+  ],
+  "author": "Hendrik Fellerhoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hennieliminator/node-ssha256/issues"
+  },
+  "homepage": "https://github.com/hennieliminator/node-ssha256"
+}
