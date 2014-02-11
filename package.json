@@ -15,8 +15,11 @@
     "salt",
     "ssha256"
   ],
+  "dependencies": {
+    "mocha": ">= 1.17.1"
+  },
   "author": "Hendrik Fellerhoff",
- "bugs": {
+  "bugs": {
     "url": "https://github.com/henne-/node-ssha256/issues"
   },
   "homepage": "https://github.com/henne-/node-ssha256",
